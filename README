@@ -1,1 +1,20 @@
+# Enterprise Active Directory Home Lab
+
+## Overview
+This project documents the deployment of an enterprise-style Active Directory environment using Windows Server 2008, Windows clients, Kali Linux and Oracle VirtualBox.
+
+The Objective was to simulate a corporate network by deploying Active Directory Domain Services(AD DS), configuring DNS, joining client systems to the domain, and perform LDAP enumeration from a security testing perspective.
+---
+
+## Objective
+
+- Deploy Windows Server as an Active Directory Domain Controller.
+- Configure DNS for Active Diretory.
+- Configure static IP addressing.
+- Join Windows client system to the domain.
+- Create Users, Groups, and Organisational Units (OUs).
+- verify domain authentication.
+- Perform LDAP Enumeration from Windows.
+- Document the deployment and troubleshooting process.
+
 
