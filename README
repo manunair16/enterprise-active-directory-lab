@@ -1,5 +1,14 @@
 # Enterprise Active Directory Home Lab
 
+# Enterprise Active Directory Home Lab
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2008_R2-blue)
+![Active Directory](https://img.shields.io/badge/Active_Directory-AD_DS-success)
+![DNS](https://img.shields.io/badge/DNS-Configured-green)
+![LDAP](https://img.shields.io/badge/LDAP-Port_389-orange)
+![VirtualBox](https://img.shields.io/badge/Oracle-VirtualBox-blueviolet)
+
+
 ## Overview
 
 This project documents the deployment of an enterprise-style Active Directory environment using Windows Server 2008 R2, Windows 7 clients, Kali Linux, and Oracle VirtualBox.
